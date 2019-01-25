@@ -8,4 +8,6 @@
 - 데이터 : RAVDESS Dataset(The Ryerson Audio-Visual Database of Emotional Speech and Song)
 - 비고 
   - TensorflowOnSpark를 이용한 학습은 실패하여 단일노드에서 학습 후, 결과만 클러스터에 분산하여 저장
-  - 음악 생성을 위한 데이터가 부족하여 emotion detection으로 주제 
+  - 음악 생성을 위한 데이터가 부족하여 emotion detection으로 주제 변경
+  
+  
