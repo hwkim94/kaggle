@@ -1,4 +1,4 @@
-## spark_voice_SparklingEmonicana
+## SparklingEmonicana
 - 2018년 1학기 컨퍼런스
 - 주제
   - spectrogram과 CNN을 이용한 audio emotion classification
