@@ -11,3 +11,6 @@
   - TensorflowOnSpark 참고 : https://github.com/yahoo/TensorFlowOnSpark
   - deep audio style transfer을 위한 데이터가 부족하여 emotion detection으로 주제 변경
   
+- 관련 논문 리뷰
+  - https://hwkim94.github.io/distributed-computing/deeplearning/paperreview/2018/05/15/Distributed-DL1.html
+  - https://hwkim94.github.io/distributed-computing/deeplearning/paperreview/2018/05/16/Distributed-DL2.html
